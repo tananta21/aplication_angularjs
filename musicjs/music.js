@@ -21,5 +21,4 @@ $(document).ready(function () {
     }
 
     $('form#guardar-disco').submit(guardarDisco);
-    window.alert("seregistro musico");
 });
